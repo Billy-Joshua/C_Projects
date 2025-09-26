@@ -83,16 +83,15 @@ int main() {
     }
     printf("\n");
 
-    // 7. Multiplication table
     printMultiplicationTable(10);
 
-    // 8. Star pattern
+  
     printStarPattern(10);
 
-    // 9. System info
     time_t now = time(NULL);
     printf("\nCurrent system time: %s", ctime(&now));
 
     printf("\nThank you for using the demo program!\n");
     return 0;
+
 }
