@@ -22,7 +22,8 @@ void reverse(char str[]) {
     }
 }
 
-// Function to print a multiplication table
+
+// Function t  o print a multiplication table
 void printMultiplicationTable(int size) {
     printf("\nMultiplication Table (%dx%d):\n", size, size);
     for(int i = 1; i <= size; i++) {
@@ -45,7 +46,7 @@ void printStarPattern(int rows) {
 }
 
 int main() {
-    printf("Welcome to the C Demo Program!\n\n");
+    printf("hello joshua BILLY ready for to day ? if yes click enter \n\n");
 
     // 1. User input
     char name[50];
@@ -95,3 +96,6 @@ int main() {
     return 0;
 
 }
+// Function to print a multiplication table of given size   
+// Function to print a star pattern of given number of rows 
+// Main function demonstrating various features
