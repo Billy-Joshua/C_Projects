@@ -99,3 +99,4 @@ int main() {
 // Function to print a multiplication table of given size   
 // Function to print a star pattern of given number of rows 
 // Main function demonstrating various features
+
