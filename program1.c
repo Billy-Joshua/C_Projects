@@ -3,7 +3,6 @@
 int main() {
     int choice;
     double num1, num2, result;
-
     printf("Simple Calculator\n");
     printf("-----------------\n");
     printf("1. Addition\n");
